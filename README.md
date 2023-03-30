@@ -3,15 +3,44 @@
 </div>
 <br>
 
+* ### A seguir você encontrará todas as tecnologias que tenho conhecimento e experiência, seguindo a seguinte tabela.
+
 <table style="width:100%; 
               text-align: center; ">
     <tr style="border: 1px solid">
-        <td>Técnologia</td>
         <td>Familiaridade</td>
+        <td>Estrelas</td>
     </tr>
     <tr>
-        <td>Ionic</td>
+        <td>Iniciante</td>
+        <td>⭐</td>
+    </tr>
+    <tr>
+        <td>Intermediário</td>
+        <td>⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>Avançado</td>
         <td>⭐ ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>Especialista</td>
+        <td>⭐ ⭐ ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>Sênior</td>
+        <td>⭐ ⭐ ⭐ ⭐ ⭐</td>
+    </tr>
+</table>
+<br>
+
+* ### Fremeworks 
+
+<table style="width:100%; 
+              text-align: center; ">
+    <tr style="border: 1px solid">
+        <td>Framework</td>
+        <td>Familiaridade</td>
     </tr>
     <tr>
         <td>Angular</td>
@@ -27,10 +56,12 @@
     </tr>
 </table>
 <br>
+
+* ### Linguagens 
 <table style="width:100%; 
               text-align: center; ">
     <tr style="border: 1px solid">
-        <td>Linguagens</td>
+        <td>Linguagem</td>
         <td>Familiaridade</td>
     </tr>
     <tr>
@@ -43,11 +74,11 @@
     </tr>
     <tr>
         <td>SQL</td>
-        <td>⭐ ⭐ ⭐</td>
+        <td>⭐ ⭐</td>
     </tr>
     <tr>
         <td>PHP</td>
-        <td>⭐ ⭐ ⭐</td>
+        <td>⭐ ⭐</td>
     </tr>
     <tr>
         <td>HTML 5</td>
@@ -59,6 +90,8 @@
     </tr>
 </table>
 <br>
+
+* ### Sistemas Operacionais 
 <table style="width:100%; 
               text-align: center; ">
     <tr style="border: 1px solid">
@@ -82,7 +115,7 @@
         <td>⭐ ⭐ ⭐</td>
     </tr>
 </table>
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felp23&custom_title=Linguagens)](https://github.com/felp23/github-readme-stats)
 
-
-
-[![Felipe Dantas GitHub stats](https://github-readme-stats.vercel.app/api?username=felp23)](https://github.com/felp23/github-readme-stats)
+[![Felipe Dantas GitHub stats](https://github-readme-stats.vercel.app/api?username=felp23)](https://github.com/felp23/github-readme-stats) -->
