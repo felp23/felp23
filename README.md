@@ -1,19 +1,19 @@
-#### Obrigado por acessar meu GitHub, meu nome é Felipe Dantas, sou desenvolvedor FullStack com experiência em Ionic, Angular e TypeScript para desenvolvimento front-end, bem como NodeJS e MariaDB para o backend. Habilidades avançadas em Git, Npm e Yarn para controle de versão e gerenciamento de pacotes. Experiência em sistemas Linux e proficiente em linha de comando, Docker, Container, FTP, SSH e outras tecnologias auxiliares. Capacidade de trabalhar em equipe e resolver problemas de forma eficaz.
-
-#### Procurando um desenvolvedor FullStack com habilidades em Ionic, Angular, TypeScript, NodeJS e MariaDB? Continue lendo para saber mais sobre minhas habilidades em desenvolvimento web e experiência em sistemas Linux.
+<div style="text-align: justify;">
+    Obrigado por acessar meu GitHub, meu nome é Felipe Dantas, sou desenvolvedor FullStack com experiência em Ionic, Angular e TypeScript para desenvolvimento front-end, bem como NodeJS e MariaDB para o backend. Habilidades avançadas em Git, Npm e Yarn para controle de versão e gerenciamento de pacotes. Experiência em sistemas Linux e proficiente em linha de comando, Docker, Container, FTP, SSH e outras tecnologias auxiliares. Capacidade de trabalhar em equipe e resolver problemas de forma eficaz.
+</div>
 <br>
 
 ## Conhecimentos e habilidades:
 
 * ### Frameworks: 
 
-    #### - Ionic Framework = ⭐ ⭐ ⭐
+    #### - Ionic = ⭐ ⭐ ⭐
 
-    #### - Angular Framework = ⭐ ⭐ ⭐ ⭐
+    #### - Angular = ⭐ ⭐ ⭐ ⭐
 
-    #### - WordPress Framework = ⭐ ⭐
+    #### - WordPress = ⭐ ⭐
 
-    #### - OpenCart Framework = ⭐ ⭐
+    #### - OpenCart = ⭐ ⭐
 
 * ### Linguagens: 
 
