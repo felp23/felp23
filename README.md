@@ -92,8 +92,7 @@
 <br>
 
 * ### Sistemas Operacionais 
-<table style="width:100%; 
-              text-align: center; ">
+<table style="margin-left: 50%">
     <tr style="border: 1px solid">
         <td>Sistemas Operacionais</td>
         <td>Familiaridade</td>
