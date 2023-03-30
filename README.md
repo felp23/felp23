@@ -24,5 +24,18 @@
 
     #### - CSS / SCSS = ⭐ ⭐ ⭐
 
+* ### Sistemas Operacionais: 
+
+    #### - Windows = ⭐ ⭐ ⭐ ⭐ ⭐
+
+    #### - Linux Desktop = ⭐ ⭐ ⭐ ⭐ ⭐
+
+    #### - Linux Server (Debian e derivados) = ⭐ ⭐ ⭐
+
+    #### - Mikrotik Router OS = ⭐ ⭐ ⭐
+
+
+
+
 
 [![Felipe Dantas GitHub stats](https://github-readme-stats.vercel.app/api?username=felp23)](https://github.com/felp23/github-readme-stats)
