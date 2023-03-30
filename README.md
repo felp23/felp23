@@ -11,7 +11,6 @@
     #### - Ionic Framework = ⭐ ⭐ ⭐
 
     #### - Angular Framework = ⭐ ⭐ ⭐ ⭐
-<br>
 
 * ### Linguagens: 
 
