@@ -3,11 +3,8 @@
 </div>
 <br>
 
-<table>
-    <tr style="border: 1px solid">
-        <td>
-
-<table>
+<table style="width:100%; 
+              text-align: center; ">
     <tr style="border: 1px solid">
         <td>Técnologia</td>
         <td>Familiaridade</td>
@@ -29,8 +26,7 @@
         <td>⭐ ⭐ ⭐</td>
     </tr>
 </table>
-</td>
-        <td>
+<br>
 <table style="width:100%; 
               text-align: center; ">
     <tr style="border: 1px solid">
@@ -62,48 +58,30 @@
         <td>⭐ ⭐ ⭐</td>
     </tr>
 </table>
-        </td>
+<br>
+<table style="width:100%; 
+              text-align: center; ">
+    <tr style="border: 1px solid">
+        <td>Sistemas Operacionais</td>
+        <td>Familiaridade</td>
+    </tr>
+    <tr>
+        <td>Windows</td>
+        <td>⭐ ⭐ ⭐ ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>Linux Desktop</td>
+        <td>⭐ ⭐ ⭐ ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>Linux Server</td>
+        <td>⭐ ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>Mikrotik Router OS</td>
+        <td>⭐ ⭐ ⭐</td>
     </tr>
 </table>
-<br>
-
-## Conhecimentos e habilidades:
-
-* ### Frameworks: 
-
-    #### - Ionic = ⭐ ⭐ ⭐
-
-    #### - Angular = ⭐ ⭐ ⭐ ⭐
-
-    #### - WordPress = ⭐ ⭐
-
-    #### - OpenCart = ⭐ ⭐
-
-* ### Linguagens: 
-
-    #### - JavaScript = ⭐ ⭐ ⭐
-
-    #### - TypeScript = ⭐ ⭐ ⭐ ⭐
-
-    #### - SQL = ⭐ ⭐ ⭐
-
-    #### - PHP = ⭐ ⭐ ⭐
-
-    #### - HTML 5 = ⭐ ⭐ ⭐ ⭐ ⭐
-
-    #### - CSS / SCSS = ⭐ ⭐ ⭐
-
-* ### Sistemas Operacionais: 
-
-    #### - Windows = ⭐ ⭐ ⭐ ⭐ ⭐
-
-    #### - Linux Desktop = ⭐ ⭐ ⭐ ⭐ ⭐
-
-    #### - Linux Server (Debian e derivados) = ⭐ ⭐ ⭐
-
-    #### - Mikrotik Router OS = ⭐ ⭐ ⭐
-
-
 
 
 
