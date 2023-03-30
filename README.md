@@ -3,6 +3,62 @@
 </div>
 <br>
 
+<table style="width:100%; 
+              text-align: center; ">
+    <tr style="border: 1px solid">
+        <td>Técnologia</td>
+        <td>Familiaridade</td>
+    </tr>
+    <tr>
+        <td>Ionic</td>
+        <td>⭐ ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>Angular</td>
+        <td>⭐ ⭐ ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>WordPress</td>
+        <td>⭐ ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>OpenCart</td>
+        <td>⭐ ⭐ ⭐</td>
+    </tr>
+</table>
+<br>
+<table style="width:100%; 
+              text-align: center; ">
+    <tr style="border: 1px solid">
+        <td>Linguagens</td>
+        <td>Familiaridade</td>
+    </tr>
+    <tr>
+        <td>JavaScript</td>
+        <td>⭐ ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>TypeScript</td>
+        <td>⭐ ⭐ ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>SQL</td>
+        <td>⭐ ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>PHP</td>
+        <td>⭐ ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>HTML 5</td>
+        <td>⭐ ⭐ ⭐ ⭐ ⭐</td>
+    </tr>
+    <tr>
+        <td>CSS / SCSS</td>
+        <td>⭐ ⭐ ⭐</td>
+    </tr>
+</table>
+
 ## Conhecimentos e habilidades:
 
 * ### Frameworks: 
