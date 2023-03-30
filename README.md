@@ -3,8 +3,11 @@
 </div>
 <br>
 
-<table style="width:100%; 
-              text-align: center; ">
+<table>
+    <tr style="border: 1px solid">
+        <td>
+
+<table>
     <tr style="border: 1px solid">
         <td>Técnologia</td>
         <td>Familiaridade</td>
@@ -26,7 +29,8 @@
         <td>⭐ ⭐ ⭐</td>
     </tr>
 </table>
-<br>
+</td>
+        <td>
 <table style="width:100%; 
               text-align: center; ">
     <tr style="border: 1px solid">
@@ -58,6 +62,10 @@
         <td>⭐ ⭐ ⭐</td>
     </tr>
 </table>
+        </td>
+    </tr>
+</table>
+<br>
 
 ## Conhecimentos e habilidades:
 
